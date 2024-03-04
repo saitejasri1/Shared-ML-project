@@ -1,6 +1,6 @@
 # Shared-ML-project
 In this repository, you find the content required for BDA 602 Machine Learning final project.
-
+## Interactive Recipe Recommender with Image Recognition
 Project Idea: 
 - Scrape recipes and cooking-related content.
 - Apply NLP to understand and categorize recipes.
