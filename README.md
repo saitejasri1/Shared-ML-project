@@ -1,10 +1,14 @@
-Description:
+Description: <br>
+
 Step into a world where pixels meet palates, where your visual inspiration sparks culinary creativity! At the heart of "Pixel to Plate" lies a dynamic fusion of machine learning, computer vision, and deep learning techniques, all orchestrated to redefine how we interact with recipes.
 
-Project Overview:
+Project Overview: <br>
+
 "Pixel to Plate" embarks on an exhilarating journey through the realms of artificial intelligence and culinary arts. By harnessing the power of ML and computer vision, we've crafted an innovative recipe generation system that transcends traditional boundaries.
 
-Key Objectives & Ideas:
+Key Objectives & Ideas: 
+<br>
+
 🍳 Recipe Scraping: Unveiling a treasure trove of culinary wisdom by scraping recipes and cooking-related content from the vast expanse of the internet. <br>
 
 📚 NLP Magic: Infusing recipes with linguistic finesse through the application of Natural Language Processing (NLP), allowing for seamless categorization and comprehension. <br>
