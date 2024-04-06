@@ -1,3 +1,6 @@
+![Pixel_to_Plate_Flowchart](https://github.com/saitejasri1/Shared-ML-project/assets/103060090/366c76ce-1b80-4f0c-b0af-112d60e54979)
+
+
 Description: <br>
 
 Step into a world where pixels meet palates, where your visual inspiration sparks culinary creativity! At the heart of "Pixel to Plate" lies a dynamic fusion of machine learning, computer vision, and deep learning techniques, all orchestrated to redefine how we interact with recipes.
