@@ -22,7 +22,8 @@ Key Objectives & Ideas:
 
 🌐 Interactive Oasis: Building a vibrant web application that serves as an interactive hub for culinary enthusiasts, offering a visually captivating recipe recommendation system that dances to the beat of your taste buds. <br>
 
-![Flowchart ML masterchef](https://github.com/saitejasri1/Shared-ML-project/assets/103060090/69861d30-015b-4e77-a813-1f0876216a48)
+![Flowchart ML masterchef (2)](https://github.com/saitejasri1/Shared-ML-project/assets/103060090/d6e900dc-46e5-4896-8c1e-8dd7015c6fa7)
+
 
 
 Join us on this exhilarating escapade, where every pixel holds the promise of a delectable journey from screen to plate! Let "Pixel to Plate" be your guiding star in the realm of gastronomic exploration! 🌟
