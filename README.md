@@ -27,3 +27,5 @@ Key Objectives & Ideas:
 
 
 Join us on this exhilarating escapade, where every pixel holds the promise of a delectable journey from screen to plate! Let "Pixel to Plate" be your guiding star in the realm of gastronomic exploration! 🌟
+<br>
+<a href ="https://github.com/saitejasri1/Shared-ML-project/blob/main/Ml%20Master%20Chefs_%20Final%20paper.pdf"> Click Here to read the entire <h3> RESEARCH PAPER!</h3> </a>
